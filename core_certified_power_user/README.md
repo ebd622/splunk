@@ -8,6 +8,8 @@
     * Use the bin command with the _time field
 
   * Formatting Time
+    * Use various date and time eval functions to format time
+
   * Comparing Index Time versus Search Time
   * Using Time Commands
   * Working with Time Zones
