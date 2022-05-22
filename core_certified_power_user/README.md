@@ -1,6 +1,6 @@
 # Splunk Core Certified Power User
 ## Topics
-* Working with Time ([origin](https://www.splunk.com/en_us/training/courses/working-with-time.html))
+* **Working with Time** ([origin](https://www.splunk.com/en_us/training/courses/working-with-time.html))
   * Searching with Time 
     * Understand the _time field and timestamps
     * View and interact with the Event Timeline
@@ -20,7 +20,7 @@
     * Determine the time zone of your server
     * Use strftime to correct timezones in results
 
-* Statistical Processing
+* **Statistical Processing**
 * Comparing Values
 * Result Modification
 * Correlation Analysis
