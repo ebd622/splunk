@@ -1,1 +1,1 @@
-# splunk
+# Splunk Core Certified Power User
