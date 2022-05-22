@@ -11,11 +11,14 @@
     * Use various date and time eval functions to format time
 
   * Comparing Index Time versus Search Time
+  * Using Time Commands
     * Use the timechart command
     * Use the timewrap command
 
-  * Using Time Commands
   * Working with Time Zones
+    * Understand how time and timezones are represented in your data
+    * Determine the time zone of your server
+    * Use strftime to correct timezones in results
 
 * Statistical Processing
 * Comparing Values
