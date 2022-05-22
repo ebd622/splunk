@@ -11,6 +11,9 @@
     * Use various date and time eval functions to format time
 
   * Comparing Index Time versus Search Time
+    * Use the timechart command
+    * Use the timewrap command
+
   * Using Time Commands
   * Working with Time Zones
 
