@@ -23,7 +23,7 @@
 * **Statistical Processing** ([origin](https://www.splunk.com/en_us/training/courses/statistical-processing.html))
 * Comparing Values ([course](https://www.splunk.com/en_us/training/courses/comparing-values.html))
 * Result Modification ([course](https://www.splunk.com/en_us/training/courses/result-modification.html))
-* Correlation Analysis
+* Correlation Analysis ([course](https://www.splunk.com/en_us/training/courses/correlation-analysis.html))
 * Creating Knowledge Objects
 * Creating Field Extractions
 * Data Models
