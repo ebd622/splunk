@@ -20,7 +20,7 @@
     * Determine the time zone of your server
     * Use strftime to correct timezones in results
 
-* **Statistical Processing**
+* **Statistical Processing** ([origin](https://www.splunk.com/en_us/training/courses/statistical-processing.html))
 * Comparing Values
 * Result Modification
 * Correlation Analysis
