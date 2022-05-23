@@ -21,7 +21,7 @@
     * Use strftime to correct timezones in results
 
 * **Statistical Processing** ([origin](https://www.splunk.com/en_us/training/courses/statistical-processing.html))
-* Comparing Values ([course(https://www.splunk.com/en_us/training/courses/comparing-values.html)])
+* Comparing Values ([course](https://www.splunk.com/en_us/training/courses/comparing-values.html))
 * Result Modification
 * Correlation Analysis
 * Creating Knowledge Objects
