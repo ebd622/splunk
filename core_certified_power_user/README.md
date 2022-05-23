@@ -25,5 +25,5 @@
 * Result Modification ([course](https://www.splunk.com/en_us/training/courses/result-modification.html))
 * Correlation Analysis ([course](https://www.splunk.com/en_us/training/courses/correlation-analysis.html))
 * Creating Knowledge Objects ([course](https://www.splunk.com/en_us/training/courses/creating-knowledge-objects.html))
-* Creating Field Extractions
+* Creating Field Extractions ([course](https://www.splunk.com/en_us/training/courses/creating-field-extractions.html))
 * Data Models
