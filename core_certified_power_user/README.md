@@ -26,6 +26,8 @@
     * Explore the difference between single-series, multi-series, and time series data series
 
   * Transforming Data
+    * Use the chart, timechart, top, rare, and stats commands to transform events into data tables
+
   * Manipulating Data with eval
   * Formatting Data
 
