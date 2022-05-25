@@ -21,6 +21,11 @@
     * Use strftime to correct timezones in results
 
 * **Statistical Processing** ([origin](https://www.splunk.com/en_us/training/courses/statistical-processing.html))
+  * What is a Data SeriesReport Acceleration
+  * Transforming Data
+  * Manipulating Data with eval
+  * Formatting Data
+
 * Comparing Values ([course](https://www.splunk.com/en_us/training/courses/comparing-values.html))
 * Result Modification ([course](https://www.splunk.com/en_us/training/courses/result-modification.html))
 * Correlation Analysis ([course](https://www.splunk.com/en_us/training/courses/correlation-analysis.html))
