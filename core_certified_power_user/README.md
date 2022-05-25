@@ -35,6 +35,8 @@
     * Use the eval command as a function with the stats command
 
   * Formatting Data
+    * Use the rename command
+    * Use the sort command
 
 * Comparing Values ([course](https://www.splunk.com/en_us/training/courses/comparing-values.html))
 * Result Modification ([course](https://www.splunk.com/en_us/training/courses/result-modification.html))
