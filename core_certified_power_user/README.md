@@ -22,6 +22,9 @@
 
 * **Statistical Processing** ([origin](https://www.splunk.com/en_us/training/courses/statistical-processing.html))
   * What is a Data SeriesReport Acceleration
+    * Introduce data series
+    * Explore the difference between single-series, multi-series, and time series data series
+
   * Transforming Data
   * Manipulating Data with eval
   * Formatting Data
