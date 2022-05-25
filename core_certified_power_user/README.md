@@ -28,7 +28,12 @@
   * Transforming Data
     * Use the chart, timechart, top, rare, and stats commands to transform events into data tables
 
-  * Manipulating Data with eval
+  * Manipulating Data with eval command
+    * Understand dthe eval command
+    * Explore and perform calculations using mathematical and statistical eval functions
+    * Perform calculations and concatenations on field values
+    * Use the eval command as a function with the stats command
+
   * Formatting Data
 
 * Comparing Values ([course](https://www.splunk.com/en_us/training/courses/comparing-values.html))
