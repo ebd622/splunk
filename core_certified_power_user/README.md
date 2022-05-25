@@ -38,7 +38,7 @@
     * Use the rename command
     * Use the sort command
 
-* Comparing Values ([course](https://www.splunk.com/en_us/training/courses/comparing-values.html))
+* **Comparing Values** ([course](https://www.splunk.com/en_us/training/courses/comparing-values.html))
 * Result Modification ([course](https://www.splunk.com/en_us/training/courses/result-modification.html))
 * Correlation Analysis ([course](https://www.splunk.com/en_us/training/courses/correlation-analysis.html))
 * Creating Knowledge Objects ([course](https://www.splunk.com/en_us/training/courses/creating-knowledge-objects.html))
