@@ -9,4 +9,4 @@ docker stop splunk
 ```
 
 ## References
-* https://splunk.github.io/docker-splunk/STORAGE_OPTIONS.html
+* [docker-splunk](https://splunk.github.io/docker-splunk/STORAGE_OPTIONS.html)
