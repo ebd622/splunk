@@ -19,7 +19,7 @@ services:
     container_name: so1
     environment:
       - SPLUNK_START_ARGS=--accept-license
-      - SPLUNK_PASSWORD=<password>
+      - SPLUNK_PASSWORD=qwerty123
       - DEBUG=true
     ports:
       - 8000
