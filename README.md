@@ -7,3 +7,6 @@ docker run --rm -d -p 8000:8000 -e "SPLUNK_START_ARGS=--accept-license" -e "SPLU
 ```
 docker stop splunk
 ```
+
+## References
+* https://splunk.github.io/docker-splunk/STORAGE_OPTIONS.html
