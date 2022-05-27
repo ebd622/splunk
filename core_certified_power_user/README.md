@@ -56,6 +56,11 @@
     * Convert a flat table into a 2-D table with the xyseries command
 
   * Modifying Result Sets
+    * Append data to search results with the appendpipe command
+    * Calculate event statistics with the eventstats command
+    * Calculate "streaming" statistics with the streamstats command
+    * Modify values to segregate events with the bin command
+
   * Managing Missing Data
   * Modifying Field Values
   * Normalizing with eval
