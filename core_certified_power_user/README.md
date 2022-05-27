@@ -39,6 +39,10 @@
     * Use the sort command
 
 * **Comparing Values** ([course](https://www.splunk.com/en_us/training/courses/comparing-values.html))
+
+  * Using eval to Compare
+  * Filtering with where
+
 * Result Modification ([course](https://www.splunk.com/en_us/training/courses/result-modification.html))
 * Correlation Analysis ([course](https://www.splunk.com/en_us/training/courses/correlation-analysis.html))
 * Creating Knowledge Objects ([course](https://www.splunk.com/en_us/training/courses/creating-knowledge-objects.html))
