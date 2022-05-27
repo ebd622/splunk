@@ -52,6 +52,9 @@
 
 * **Result Modification** ([course](https://www.splunk.com/en_us/training/courses/result-modification.html))
   * Manipulating Output
+    * Convert a 2-D table into a flat table with the untable command
+    * Convert a flat table into a 2-D table with the xyseries command
+
   * Modifying Result Sets
   * Managing Missing Data
   * Modifying Field Values
