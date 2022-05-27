@@ -62,6 +62,8 @@
     * Modify values to segregate events with the bin command
 
   * Managing Missing Data
+    * Find missing and null values with the fillnull command
+
   * Modifying Field Values
   * Normalizing with eval
 
