@@ -65,6 +65,10 @@
     * Find missing and null values with the fillnull command
 
   * Modifying Field Values
+    * Understand the eval command
+    * Use conversion and text eval functions to modify field values
+    * Reformat fields with the foreach command
+
   * Normalizing with eval
 
 * Correlation Analysis ([course](https://www.splunk.com/en_us/training/courses/correlation-analysis.html))
