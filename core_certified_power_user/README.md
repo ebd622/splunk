@@ -50,7 +50,13 @@
     * Use wildcards with the where command
     * Filter fields with the information functions, isnull and isnotnull
 
-* Result Modification ([course](https://www.splunk.com/en_us/training/courses/result-modification.html))
+* **Result Modification** ([course](https://www.splunk.com/en_us/training/courses/result-modification.html))
+  * Manipulating Output
+  * Modifying Result Sets
+  * Managing Missing Data
+  * Modifying Field Values
+  * Normalizing with eval
+
 * Correlation Analysis ([course](https://www.splunk.com/en_us/training/courses/correlation-analysis.html))
 * Creating Knowledge Objects ([course](https://www.splunk.com/en_us/training/courses/creating-knowledge-objects.html))
 * Creating Field Extractions ([course](https://www.splunk.com/en_us/training/courses/creating-field-extractions.html))
