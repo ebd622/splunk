@@ -46,6 +46,9 @@
     * Use the fieldformat command to format field values
 
   * Filtering with where
+    * Use the where command to filter results
+    * Use wildcards with the where command
+    * Filter fields with the information functions, isnull and isnotnull
 
 * Result Modification ([course](https://www.splunk.com/en_us/training/courses/result-modification.html))
 * Correlation Analysis ([course](https://www.splunk.com/en_us/training/courses/correlation-analysis.html))
