@@ -70,6 +70,9 @@
     * Reformat fields with the foreach command
 
   * Normalizing with eval
+    * Normalize data with eval functions
+    * Identify eval functions to use for data and field normalization
+
 
 * Correlation Analysis ([course](https://www.splunk.com/en_us/training/courses/correlation-analysis.html))
 * Creating Knowledge Objects ([course](https://www.splunk.com/en_us/training/courses/creating-knowledge-objects.html))
