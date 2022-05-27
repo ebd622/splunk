@@ -39,8 +39,12 @@
     * Use the sort command
 
 * **Comparing Values** ([course](https://www.splunk.com/en_us/training/courses/comparing-values.html))
-
   * Using eval to Compare
+    * Understand the eval command
+    * Explain evaluation functions
+    * Identify and use comparison and conditional functions
+    * Use the fieldformat command to format field values
+
   * Filtering with where
 
 * Result Modification ([course](https://www.splunk.com/en_us/training/courses/result-modification.html))
