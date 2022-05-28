@@ -36,10 +36,10 @@ index=web | rare categoryId
 index=web | stats sum(bytes)
 index=web | stats count by categoryId
 ```
-Will give the same result:
+Will give a similar result:
 ```
-index=web | stats dc(categoryId) //distinct count
-index=web categoryId=* | dedup categoryId //delete duplications 
+index=web | stats dc(categoryId) //distinct count: shows 8
+index=web categoryId=* | dedup categoryId //delete duplications: shows a list with 8 hits
 ```
   
   
