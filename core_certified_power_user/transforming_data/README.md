@@ -36,7 +36,7 @@ index=web | rare categoryId
 index=web | stats sum(bytes)
 index=web | stats count by categoryId
 ```
-Will give a similar result:
+Gives a similar result:
 ```
 //distinct count: shows a [number]
 index=web | stats dc(categoryId)
