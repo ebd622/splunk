@@ -47,7 +47,10 @@ index=web categoryId=* | dedup categoryId
 //shows a table with one column with [number] rows
 index=web | dedup categoryId | stats list(categoryId)
 ```
-  
+```
+index=web | stats values(referer_domain)
+index=web | stats count by referer_domain, action
+```
   
   
 ### References
