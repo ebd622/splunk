@@ -14,10 +14,20 @@ Transforming commands are required to transform search result data into the data
 
 #### `top`
 Finds the most common values for the fields in the field list. Calculates a count and a percentage of the frequency the values occur in the events. If the <by-clause> is included, the results are grouped by the field you specify in the <by-clause>.
-
+  
+  
+#### Syntax
 ```
 top [<N>] [<top-options>...] <field-list> [<by-clause>]
 ```
-
+#### Examples
+```
+index=web| top file
+index=web| top limit=20 file
+```
+(default limit is 10)
+  
+  
+  
 ### References
 * [Transforming command](https://docs.splunk.com/Splexicon:Transformingcommand)
