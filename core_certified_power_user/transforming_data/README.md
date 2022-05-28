@@ -22,10 +22,10 @@ top [<N>] [<top-options>...] <field-list> [<by-clause>]
 ```
 #### Examples
 ```
-index=web| top file
+index=web| top file  (default limit is 10)
 index=web| top limit=20 file
+index=web| top limit=20 file showperc=false (suppress the [percent] column)
 
-(default limit is 10)
 ```
 
   
