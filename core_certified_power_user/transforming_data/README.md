@@ -38,8 +38,8 @@ index=web | stats count by categoryId
 ```
 Will give a similar result:
 ```
-index=web | stats dc(categoryId) //distinct count: shows 8
-index=web categoryId=* | dedup categoryId //delete duplications: shows a list with 8 hits
+index=web | stats dc(categoryId) //distinct count: shows a [number]
+index=web categoryId=* | dedup categoryId //delete duplications: shows a list with [number] hits
 ```
   
   
