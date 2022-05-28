@@ -73,8 +73,16 @@
     * Normalize data with eval functions
     * Identify eval functions to use for data and field normalization
 
-
 * Correlation Analysis ([course](https://www.splunk.com/en_us/training/courses/correlation-analysis.html))
+  * Calculate Co-Occurrence Between Fields
+    * Understand transactions
+    * Explore the transaction command
+
+  * Analyze Multiple Datasets
+    * Understand subsearch
+    * Use the append, appendcols, union, and join commands to combine, analyze, and compare multiple data sources
+
+
 * Creating Knowledge Objects ([course](https://www.splunk.com/en_us/training/courses/creating-knowledge-objects.html))
 * Creating Field Extractions ([course](https://www.splunk.com/en_us/training/courses/creating-field-extractions.html))
 * Data Models ([course](https://www.splunk.com/en_us/training/courses/data-models.html))
