@@ -22,9 +22,9 @@ top [<N>] [<top-options>...] <field-list> [<by-clause>]
 ```
 ##### Examples
 ```
-index=web| top file  (default limit is 10)
+index=web| top file  //default limit is 10
 index=web| top limit=20 file
-index=web| top limit=20 file showperc=false (suppress the [percent] column)
+index=web| top limit=20 file showperc=false //suppress the [percent] column
 ```
 #### `rare`
 ```
@@ -35,9 +35,12 @@ index=web | rare categoryId
 ```
 index=web | stats sum(bytes)
 index=web | stats count by categoryId
-
 ```
-
+Will give the same result:
+```
+index=web | stats dc(categoryId) //distinct count
+index=web categoryId=* | dedup categoryId //delete duplications 
+```
   
   
   
