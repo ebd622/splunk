@@ -25,6 +25,10 @@ top [<N>] [<top-options>...] <field-list> [<by-clause>]
 index=web| top file  (default limit is 10)
 index=web| top limit=20 file
 index=web| top limit=20 file showperc=false (suppress the [percent] column)
+```
+#### `top`
+```
+index=web | rare categoryId
 
 ```
 
