@@ -31,6 +31,12 @@ index=web| top limit=20 file showperc=false (suppress the [percent] column)
 index=web | rare categoryId
 
 ```
+#### `stats`
+```
+index=web | stats sum(bytes)
+index=web | stats count by categoryId
+
+```
 
   
   
