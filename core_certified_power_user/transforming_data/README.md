@@ -40,6 +40,7 @@ Will give a similar result:
 ```
 index=web | stats dc(categoryId) //distinct count: shows a [number]
 index=web categoryId=* | dedup categoryId //delete duplications: shows a list with [number] hits
+index=web | dedup categoryId | stats list(categoryId) //shows a table with one column with [number] rows
 ```
   
   
