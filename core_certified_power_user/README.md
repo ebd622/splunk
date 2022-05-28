@@ -25,7 +25,7 @@
     * Introduce data series
     * Explore the difference between single-series, multi-series, and time series data series
 
-  * Transforming Data
+  * [Transforming Data](https://github.com/ebd622/splunk/tree/main/core_certified_power_user/transforming_data#transforming-data)
     * Use the chart, timechart, top, rare, and stats commands to transform events into data tables
 
   * Manipulating Data with eval command
