@@ -1,7 +1,10 @@
-# Transforming Data
+# Calculate Co-Occurrence Between Fields
 (14. Module 9A)
 ### Topics
-* Use the chart, timechart, top, rare, and stats commands to transform events into data tables
+* Understand transactions
+* Explore the transaction command
+
+
 
 ### Use the chart, timechart, top, rare, and stats commands to transform events into data tables
 `Transforming command` is a type of search command that orders the results into a data table. 
