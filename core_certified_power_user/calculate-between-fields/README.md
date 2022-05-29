@@ -9,7 +9,7 @@
 
 
 ### Understand transactions
-TODO
+Events can be grouped into transactions based on the associated and related identified fields of interest.
 
 ### Explore the transaction command
 TODO
