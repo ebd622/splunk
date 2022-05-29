@@ -11,6 +11,8 @@
 ### Understand transactions
 Events can be grouped into transactions based on the associated and related identified fields of interest.
 
+If a relationship exisists between the dielfs, then a transaction command can help enumerate that relation.
+
 ### Explore the transaction command
 TODO
 
