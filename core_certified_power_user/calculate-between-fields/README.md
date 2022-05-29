@@ -1,5 +1,7 @@
 # Calculate Co-Occurrence Between Fields
-(14. Module 9A)
+16. Module 10A: What are the events telling me?
+17. Module 10B: Demo of the transaction commands
+
 ### Topics
 * Understand transactions
 * Explore the transaction command
