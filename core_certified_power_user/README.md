@@ -85,11 +85,11 @@
 
 * Creating Knowledge Objects ([course](https://www.splunk.com/en_us/training/courses/creating-knowledge-objects.html))
 Knowledge Objects and Search-time Operations
-* Creating Event Types
-* Using Event Type Builder
-* Creating Workflow Actions
-* Creating Tags and Aliases
-Creating Search Macros
+  * Creating Event Types
+  * Using Event Type Builder
+  * Creating Workflow Actions
+  * Creating Tags and Aliases
+  * Creating Search Macros
 
 * Creating Field Extractions ([course](https://www.splunk.com/en_us/training/courses/creating-field-extractions.html))
 * Data Models ([course](https://www.splunk.com/en_us/training/courses/data-models.html))
