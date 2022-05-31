@@ -21,5 +21,7 @@ TODO
 ```
 index=web | transaction maxpause=10s
 ```
-  
+
+### References
+Splunk doc: [Transaction](https://docs.splunk.com/Documentation/Splunk/8.2.6/SearchReference/Transaction)
   
