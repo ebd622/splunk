@@ -74,7 +74,7 @@
     * Identify eval functions to use for data and field normalization
 
 * Correlation Analysis ([course](https://www.splunk.com/en_us/training/courses/correlation-analysis.html))
-  * Calculate Co-Occurrence Between Fields
+  * [Calculate Co-Occurrence Between Fields](https://github.com/ebd622/splunk/blob/main/core_certified_power_user/calculate-between-fields/README.md#calculate-co-occurrence-between-fields)
     * Understand transactions
     * Explore the transaction command
 
