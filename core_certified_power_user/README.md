@@ -92,10 +92,9 @@ Knowledge Objects and Search-time Operations
   * Creating Search Macros
 
 * Creating Field Extractions ([course](https://www.splunk.com/en_us/training/courses/creating-field-extractions.html))
-
-* Using the Field Extractor
-* Creating Regex Field Extractions
-* Creating Delimited Field Extractions
+  * Using the Field Extractor
+  * Creating Regex Field Extractions
+  * Creating Delimited Field Extractions
 
 
 * Data Models ([course](https://www.splunk.com/en_us/training/courses/data-models.html))
