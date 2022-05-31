@@ -21,6 +21,9 @@ TODO
 ```
 index=web | transaction maxpause=10s
 ```
+```
+index=web | transaction clientIp JSESSIONID startwith=view endwith=purchase
+```
 
 ### References
 Splunk doc: [Transaction](https://docs.splunk.com/Documentation/Splunk/8.2.6/SearchReference/Transaction)
