@@ -93,6 +93,11 @@ Knowledge Objects and Search-time Operations
 
 * Creating Field Extractions ([course](https://www.splunk.com/en_us/training/courses/creating-field-extractions.html))
   * Using the Field Extractor
+
+Understand types of extracted fields and when they are extracted
+Explore the Splunk Web Field Extractor (FX)
+
+
   * Creating Regex Field Extractions
   * Creating Delimited Field Extractions
 
