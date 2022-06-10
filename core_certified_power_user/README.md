@@ -97,6 +97,10 @@ Knowledge Objects and Search-time Operations
     * Explore the Splunk Web Field Extractor (FX)
 
   * Creating Regex Field Extractions
+    * Identify basics of regular expressions (regex)
+    * Understand the regex field extraction workflow
+    * Edit regex for field extractions
+
   * Creating Delimited Field Extractions
 
 
