@@ -102,6 +102,8 @@ Knowledge Objects and Search-time Operations
     * Edit regex for field extractions
 
   * Creating Delimited Field Extractions
+    * Identify delimited field values in event data
+    * Understand the delimited field extraction workflow
 
 
 * Data Models ([course](https://www.splunk.com/en_us/training/courses/data-models.html))
