@@ -88,6 +88,11 @@
     * Understand role of knowledge objects for enriching data
     * Define search-time operation sequence
   * Creating Event Types
+    * Define event types
+    * Create event types using three methods
+    * Tag event types
+    * Compare event types and reports
+
   * Using Event Type Builder
   * Creating Workflow Actions
   * Creating Tags and Aliases
