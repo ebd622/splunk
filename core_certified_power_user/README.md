@@ -85,6 +85,8 @@
 
 * Creating Knowledge Objects ([course](https://www.splunk.com/en_us/training/courses/creating-knowledge-objects.html))
   * Knowledge Objects and Search-time Operations
+    * Understand role of knowledge objects for enriching data
+    * Define search-time operation sequence
   * Creating Event Types
   * Using Event Type Builder
   * Creating Workflow Actions
