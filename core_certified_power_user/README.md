@@ -94,6 +94,10 @@
     * Compare event types and reports
 
   * Using Event Type Builder
+    * Identify what are workflow actions
+    * Create a GET, POST, and search workflow action
+    * Test workflow actions
+
   * Creating Workflow Actions
   * Creating Tags and Aliases
   * Creating Search Macros
