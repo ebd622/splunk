@@ -104,8 +104,13 @@
     * Create field aliases and tags
     * Search with field aliases and tags
 
-
   * Creating Search Macros
+    * Explain search macros
+    * Create macros with and without arguments
+    * Validate macro arguments
+    * Use and preview macros at search time
+    * Create and use nested macros
+    * Use macros with other knowledge objects
 
 * Creating Field Extractions ([course](https://www.splunk.com/en_us/training/courses/creating-field-extractions.html))
   * Using the Field Extractor
