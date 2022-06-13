@@ -112,6 +112,8 @@
     * Create and use nested macros
     * Use macros with other knowledge objects
 
+  * Creating Calculated Fields
+
 * Creating Field Extractions ([course](https://www.splunk.com/en_us/training/courses/creating-field-extractions.html))
   * Using the Field Extractor
     * Understand types of extracted fields and when they are extracted
