@@ -100,6 +100,11 @@
     * Test workflow actions
 
   * Creating Tags and Aliases
+    * Describe field aliases and tags
+    * Create field aliases and tags
+    * Search with field aliases and tags
+
+
   * Creating Search Macros
 
 * Creating Field Extractions ([course](https://www.splunk.com/en_us/training/courses/creating-field-extractions.html))
