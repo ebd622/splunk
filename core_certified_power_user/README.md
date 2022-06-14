@@ -114,6 +114,10 @@
 
   * Creating Calculated Fields
 
+Explain calculated fields
+Create a calculated field
+Use a calculated field in search
+
 * Creating Field Extractions ([course](https://www.splunk.com/en_us/training/courses/creating-field-extractions.html))
   * Using the Field Extractor
     * Understand types of extracted fields and when they are extracted
