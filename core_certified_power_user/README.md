@@ -113,10 +113,9 @@
     * Use macros with other knowledge objects
 
   * Creating Calculated Fields
-
-Explain calculated fields
-Create a calculated field
-Use a calculated field in search
+    * Explain calculated fields
+    * Create a calculated field
+    * Use a calculated field in search
 
 * Creating Field Extractions ([course](https://www.splunk.com/en_us/training/courses/creating-field-extractions.html))
   * Using the Field Extractor
