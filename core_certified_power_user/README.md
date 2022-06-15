@@ -134,6 +134,11 @@
 
 * Data Models ([course](https://www.splunk.com/en_us/training/courses/data-models.html))
   * Introducing Data Model Datasets
+    * Understand data models
+    * Add event, search, and transaction datasets to data models
+    * Identify event object hierarchy and constraints
+    * Add fields based on eval expressions to transaction datasets
+
   * Designing Data Models
   * Creating a Pivot
   * Accelerating Data Models
