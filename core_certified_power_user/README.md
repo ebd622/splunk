@@ -133,3 +133,9 @@
 
 
 * Data Models ([course](https://www.splunk.com/en_us/training/courses/data-models.html))
+
+  * Introducing Data Model Datasets
+  * Designing Data Models
+  * Creating a Pivot
+  * Accelerating Data Models
+
