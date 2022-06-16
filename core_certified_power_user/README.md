@@ -140,6 +140,14 @@
     * Add fields based on eval expressions to transaction datasets
 
   * Designing Data Models
+
+Create a data model
+Add root and child datasets to a data model
+Add fields to data models
+Test a data model
+Define permissions for a data model
+Upload/download a data model for backup and sharing
+
   * Creating a Pivot
   * Accelerating Data Models
 
