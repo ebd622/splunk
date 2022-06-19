@@ -29,7 +29,7 @@
     * Use the chart, timechart, top, rare, and stats commands to transform events into data tables
 
   * Manipulating Data with eval command
-    * Understand dthe eval command
+    * Understand the eval command
     * Explore and perform calculations using mathematical and statistical eval functions
     * Perform calculations and concatenations on field values
     * Use the eval command as a function with the stats command
