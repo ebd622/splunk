@@ -150,7 +150,7 @@
   * Creating a Pivot
 
 
-Identify benefits of using Pivot
+    * Identify benefits of using Pivot
 Create and configure a Pivot
 Visualize a Pivot
 Save a Pivot
