@@ -153,8 +153,8 @@
     * Identify benefits of using Pivot
     * Create and configure a Pivot
     * Visualize a Pivot
-Save a Pivot
-Use Instant Pivot
+* Save a Pivot
+* Use Instant Pivot
 Access underlying search for Pivot
 
   * Accelerating Data Models
