@@ -155,7 +155,7 @@
     * Visualize a Pivot
     * Save a Pivot
     * Use Instant Pivot
-* Access underlying search for Pivot
+    * Access underlying search for Pivot
 
   * Accelerating Data Models
 
