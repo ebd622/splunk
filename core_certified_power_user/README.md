@@ -159,3 +159,5 @@
 
   * Accelerating Data Models
 
+Understand the difference between ad-hoc and persistent data model acceleration
+Accelerate a data model
