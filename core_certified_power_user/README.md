@@ -159,7 +159,7 @@
 
   * Accelerating Data Models
 
-Understand the difference between ad-hoc and persistent data model acceleration
-Accelerate a data model
+* Understand the difference between ad-hoc and persistent data model acceleration
+* Accelerate a data model
 Describe the role of tsidx files in data model acceleration
 Review considerations about data model acceleration
