@@ -162,5 +162,5 @@
     * Accelerate a data model
 
 
-* Describe the role of tsidx files in data model acceleration
+    * Describe the role of tsidx files in data model acceleration
 * Review considerations about data model acceleration
