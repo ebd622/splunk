@@ -28,7 +28,7 @@
   * [Transforming Data](https://github.com/ebd622/splunk/tree/main/core_certified_power_user/transforming_data#transforming-data)
     * Use the chart, timechart, top, rare, and stats commands to transform events into data tables
 
-  * [Manipulating Data with eval command]()
+  * [Manipulating Data with eval command](https://github.com/ebd622/splunk/tree/main/core_certified_power_user/manipulating_data)
     * Understand the eval command
     * Explore and perform calculations using mathematical and statistical eval functions
     * Perform calculations and concatenations on field values
