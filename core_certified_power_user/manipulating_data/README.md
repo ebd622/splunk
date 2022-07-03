@@ -12,10 +12,7 @@ Transforming commands "transform" the specified cell values for each event into 
 
 Transforming commands include `chart`, `timechart`, `stats`, `top`, `rare`, `contingency`, and `highlight`.
 
-Transforming commands are required to transform search result data into the data structures required for visualizations such as column, bar, line, area, and pie charts.
-
-  
-  
+ 
 
 ### References
 * [Transforming command](https://docs.splunk.com/Splexicon:Transformingcommand)
