@@ -15,4 +15,4 @@ Transforming commands include `chart`, `timechart`, `stats`, `top`, `rare`, `con
  
 
 ### References
-* [Transforming command](https://docs.splunk.com/Splexicon:Transformingcommand)
+* [Transforming command](https://docs.splunk.com/Documentation/SCS/current/SearchReference/EvalCommandExamples)
