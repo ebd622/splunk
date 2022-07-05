@@ -10,8 +10,6 @@
 
 Transforming commands "transform" the specified cell values for each event into numerical values that Splunk Enterprise can use for statistical purposes. Searches that use transforming commands are called transforming searches.
 
-Transforming commands include `chart`, `timechart`, `stats`, `top`, `rare`, `contingency`, and `highlight`.
-
  
 
 ### References
