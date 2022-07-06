@@ -12,7 +12,7 @@
 TODO
 
 ### Explore and perform calculations using mathematical and statistical eval functions
-Statistical eval functions:
+[Statistical eval functions](https://docs.splunk.com/Documentation/Splunk/9.0.0/SearchReference/StatisticalFunctions):
 * avg(X,...)
 * max(X,...)
 * min(X,...)
