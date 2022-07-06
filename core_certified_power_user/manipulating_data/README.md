@@ -18,6 +18,12 @@ TODO
 * min(X,...)
 * random()
  
+Examples
+```
+| makeresults | eval n = "1 3 5 6 4 2" 
+| makemv n
+| eval maxn = max(n)
+```
 
 ### References
 * [Eval command](https://docs.splunk.com/Documentation/SCS/current/SearchReference/EvalCommandOverview)
