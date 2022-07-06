@@ -8,7 +8,10 @@
 * Perform calculations and concatenations on field values
 * Use the eval command as a function with the stats command
 
-### Use the chart, timechart, top, rare, and stats commands to transform events into data tables
+### Understand the eval command
+TODO
+
+
 `Transforming command` is a type of search command that orders the results into a data table. 
 
 Transforming commands "transform" the specified cell values for each event into numerical values that Splunk Enterprise can use for statistical purposes. Searches that use transforming commands are called transforming searches.
