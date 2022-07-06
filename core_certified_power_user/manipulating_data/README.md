@@ -13,10 +13,10 @@ TODO
 
 ### Explore and perform calculations using mathematical and statistical eval functions
 Statistical eval functions:
-avg(X,...)
-max(X,...)
-min(X,...)
-random()
+* avg(X,...)
+* max(X,...)
+* min(X,...)
+* random()
  
 
 ### References
