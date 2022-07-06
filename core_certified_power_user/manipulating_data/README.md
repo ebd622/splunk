@@ -11,11 +11,12 @@
 ### Understand the eval command
 TODO
 
-
-`Transforming command` is a type of search command that orders the results into a data table. 
-
-Transforming commands "transform" the specified cell values for each event into numerical values that Splunk Enterprise can use for statistical purposes. Searches that use transforming commands are called transforming searches.
-
+### Explore and perform calculations using mathematical and statistical eval functions
+Statistical eval functions:
+avg(X,...)
+max(X,...)
+min(X,...)
+random()
  
 
 ### References
