@@ -3,7 +3,10 @@
 
 (14. Module 9A)
 ### Topics
-* Use the chart, timechart, top, rare, and stats commands to transform events into data tables
+* Understand the eval command
+* Explore and perform calculations using mathematical and statistical eval functions
+* Perform calculations and concatenations on field values
+* Use the eval command as a function with the stats command
 
 ### Use the chart, timechart, top, rare, and stats commands to transform events into data tables
 `Transforming command` is a type of search command that orders the results into a data table. 
