@@ -25,7 +25,7 @@ Examples
 | eval maxn = max(n)
 ```
 
-[Mathematical functions]()
+[Mathematical functions](https://docs.splunk.com/Documentation/SCS/current/SearchReference/MathematicalFunctions#Mathematical_functions)
 * abs(<num>)
 
 
