@@ -25,5 +25,8 @@ Examples
 | eval maxn = max(n)
 ```
 
+### Mathematical functions
+
+
 ### References
 * [Eval command](https://docs.splunk.com/Documentation/SCS/current/SearchReference/EvalCommandOverview)
