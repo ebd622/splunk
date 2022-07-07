@@ -25,7 +25,8 @@ Examples
 | eval maxn = max(n)
 ```
 
-### Mathematical functions
+[Mathematical functions]()
+* abs(<num>)
 
 
 ### References
