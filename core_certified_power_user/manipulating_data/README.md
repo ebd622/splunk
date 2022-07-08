@@ -27,6 +27,7 @@ Examples
 
 [Mathematical functions](https://docs.splunk.com/Documentation/SCS/current/SearchReference/MathematicalFunctions#Mathematical_functions)
 * abs(<num>)
+* ceiling(<num>) or ceil(<num>)
 
 
 ### References
