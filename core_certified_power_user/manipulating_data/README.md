@@ -30,6 +30,7 @@ Examples
 * ceiling(<num>) or ceil(<num>)
 * exact(<expression>)
 * exp(<num>)
+* floor(<num>)
 
 
 
