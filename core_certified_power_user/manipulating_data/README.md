@@ -29,6 +29,8 @@ Examples
 * abs(<num>)
 * ceiling(<num>) or ceil(<num>)
 * exact(<expression>)
+* exp(<num>)
+
 
 
 ### References
