@@ -31,6 +31,7 @@ Examples
 * exact(<expression>)
 * exp(<num>)
 * floor(<num>)
+* ln(<num>)
 
 
 
