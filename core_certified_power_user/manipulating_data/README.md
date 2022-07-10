@@ -32,6 +32,8 @@ Examples
 * exp(<num>)
 * floor(<num>)
 * ln(<num>)
+* log(<num>,<base>)
+ 
 
 
 
