@@ -26,12 +26,12 @@ Examples
 ```
 
 [Mathematical functions](https://docs.splunk.com/Documentation/SCS/current/SearchReference/MathematicalFunctions#Mathematical_functions)
-* abs(<num>)
-* ceiling(<num>) or ceil(<num>)
-* exact(<expression>)
-* exp(<num>)
-* floor(<num>)
-* ln(<num>)
+* abs(&lt;num&gt;)
+* ceiling(&lt;num&gt;) or ceil(<num>)
+* exact(&lt;expression&gt;)
+* exp(&lt;num&gt;)
+* floor(&lt;num&gt;)
+* ln(&lt;num&gt;)
 * log(&lt;num&gt;,&lt;base&gt;)
  
 
