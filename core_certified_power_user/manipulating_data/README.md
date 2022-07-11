@@ -32,7 +32,7 @@ Examples
 * exp(<num>)
 * floor(<num>)
 * ln(<num>)
-* log(&lt;num&gt;,<base>)
+* log(&lt;num&gt;,&lt;base&gt;)
  
 
 
