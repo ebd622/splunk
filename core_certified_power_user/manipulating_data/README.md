@@ -33,7 +33,7 @@ Examples
 * floor(&lt;num&gt;)
 * ln(&lt;num&gt;)
 * log(&lt;num&gt;,&lt;base&gt;)
- 
+* pi()
 
 
 
