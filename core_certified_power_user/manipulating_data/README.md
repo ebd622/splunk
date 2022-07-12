@@ -27,7 +27,7 @@ Examples
 
 [Mathematical functions](https://docs.splunk.com/Documentation/SCS/current/SearchReference/MathematicalFunctions#Mathematical_functions)
 * abs(&lt;num&gt;)
-* ceiling(&lt;num&gt;) or ceil(<num>)
+* ceiling(&lt;num&gt;) or ceil(&lt;num&gt;)
 * exact(&lt;expression&gt;)
 * exp(&lt;num&gt;)
 * floor(&lt;num&gt;)
