@@ -34,7 +34,7 @@ Examples
 * ln(&lt;num&gt;)
 * log(&lt;num&gt;,&lt;base&gt;)
 * pi()
-* pow(<num>, <exp>)
+* pow((&lt;num(&gt;, <exp>)
 
 
 
