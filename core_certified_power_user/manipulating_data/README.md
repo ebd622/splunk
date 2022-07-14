@@ -35,7 +35,7 @@ Examples
 * log(&lt;num&gt;,&lt;base&gt;)
 * pi()
 * pow(&lt;num&gt;, &lt;exp&gt;)
-* round(<num>, <precision>)
+* round(&lt;num&gt;, <precision>)
 
 
 
