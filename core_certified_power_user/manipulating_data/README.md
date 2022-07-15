@@ -36,6 +36,7 @@ Examples
 * pi()
 * pow(&lt;num&gt;, &lt;exp&gt;)
 * round(&lt;num&gt;, <precision>)
+* sigfig(<num>)
 
 
 
