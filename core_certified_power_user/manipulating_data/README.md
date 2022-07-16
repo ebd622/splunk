@@ -37,7 +37,7 @@ Examples
 * pow(&lt;num&gt;, &lt;exp&gt;)
 * round(&lt;num&gt;, &lt;precision&gt;)
 * sigfig(&lt;num&gt;)
-* sqrt(<num>)
+* sqrt(&lt;num&gt;)
 
 
 ### References
