@@ -39,6 +39,8 @@ Examples
 * sigfig(&lt;num&gt;)
 * sqrt(&lt;num&gt;)
 
+### Perform calculations and concatenations on field values
+
 
 ### References
 * [Eval command](https://docs.splunk.com/Documentation/SCS/current/SearchReference/EvalCommandOverview)
