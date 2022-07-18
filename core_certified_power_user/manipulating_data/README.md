@@ -43,7 +43,7 @@ Examples
 TODO
 
 ### Use the eval command as a function with the stats command
-
+TODO
 
 ### References
 * [Eval command](https://docs.splunk.com/Documentation/SCS/current/SearchReference/EvalCommandOverview)
