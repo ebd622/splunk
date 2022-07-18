@@ -42,6 +42,8 @@ Examples
 ### Perform calculations and concatenations on field values
 TODO
 
+### Use the eval command as a function with the stats command
+
 
 ### References
 * [Eval command](https://docs.splunk.com/Documentation/SCS/current/SearchReference/EvalCommandOverview)
