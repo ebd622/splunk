@@ -47,3 +47,4 @@ TODO
 
 ### References
 * [Eval command](https://docs.splunk.com/Documentation/SCS/current/SearchReference/EvalCommandOverview)
+* [Use stats with eval expressions and functions]()
