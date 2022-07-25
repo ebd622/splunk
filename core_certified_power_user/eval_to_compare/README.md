@@ -3,6 +3,7 @@
 
 (14. Module 9A)
 ### Topics
+* Understand the eval command
 TODO
 
 
