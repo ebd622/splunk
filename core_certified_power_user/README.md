@@ -39,7 +39,7 @@
     * Use the sort command
 
 * **Comparing Values** ([course](https://www.splunk.com/en_us/training/courses/comparing-values.html))
-  * Using eval to Compare
+  * (Using eval to Compare)[https://github.com/ebd622/splunk/tree/main/core_certified_power_user/eval_to_compare]
     * Understand the eval command
     * Explain evaluation functions
     * Identify and use comparison and conditional functions
