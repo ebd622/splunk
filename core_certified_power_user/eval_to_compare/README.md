@@ -4,6 +4,7 @@
 (14. Module 9A)
 ### Topics
 * Understand the eval command
+* Explain evaluation functions
 TODO
 
 
