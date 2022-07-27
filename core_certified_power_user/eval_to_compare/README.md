@@ -5,6 +5,7 @@
 ### Topics
 * Understand the eval command
 * Explain evaluation functions
+* Identify and use comparison and conditional functions
 
 
 TODO
