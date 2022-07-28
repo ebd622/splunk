@@ -8,7 +8,6 @@
 * Identify and use comparison and conditional functions
 * Use the fieldformat command to format field values
 
-
 TODO
 
 
