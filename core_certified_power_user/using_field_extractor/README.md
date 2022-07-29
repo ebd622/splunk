@@ -1,5 +1,6 @@
 # Using the Field Extractor
-(14. Module 9A)
+(20. Module 12A)
+(21. Module 12B)
 ### Topics
 * Use the chart, timechart, top, rare, and stats commands to transform events into data tables
 
