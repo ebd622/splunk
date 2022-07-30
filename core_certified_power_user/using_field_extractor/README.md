@@ -15,6 +15,9 @@ Field extraction methods:
     * `erex` - aids (helps) in generating regex for field extraction as long as you provide exanples of what you want to extract.
 
 #### Explore the Splunk Web Field Extractor (FX)
+There are a few ways to nvigate to Web Field Extractor:
+* Settings -> Fields -> Fields Extractions -> Open Field Extractor
+* 
 
 
   
