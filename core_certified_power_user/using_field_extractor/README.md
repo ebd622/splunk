@@ -6,7 +6,7 @@
 * Explore the Splunk Web Field Extractor (FX)
 
 
-###$ Understand types of extracted fields and when they are extracted
+#### Understand types of extracted fields and when they are extracted
 TODO
 
 
