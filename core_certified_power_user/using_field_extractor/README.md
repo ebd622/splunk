@@ -6,7 +6,9 @@
 * Explore the Splunk Web Field Extractor (FX)
 
 
-### Use the chart, timechart, top, rare, and stats commands to transform events into data tables
+### Understand types of extracted fields and when they are extracted
+TODO
+
 `Transforming command` is a type of search command that orders the results into a data table. 
 
 Transforming commands "transform" the specified cell values for each event into numerical values that Splunk Enterprise can use for statistical purposes. Searches that use transforming commands are called transforming searches.
