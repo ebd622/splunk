@@ -2,7 +2,9 @@
 (20. Module 12A)
 (21. Module 12B)
 ### Topics
-TODO
+* Understand types of extracted fields and when they are extracted
+* Explore the Splunk Web Field Extractor (FX)
+
 
 ### Use the chart, timechart, top, rare, and stats commands to transform events into data tables
 `Transforming command` is a type of search command that orders the results into a data table. 
