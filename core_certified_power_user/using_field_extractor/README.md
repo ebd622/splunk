@@ -14,6 +14,7 @@ Field extraction methods:
     * `rex` - use `regex` to create a new fields our of a feild that already exists (when you a `regex` pro). This is a key-point with `rex`;
     * `erex` - aids (helps) in generating regex for field extraction as long as you provide exanples of what you want to extract.
 
+#### Explore the Splunk Web Field Extractor (FX)
 
 
   
