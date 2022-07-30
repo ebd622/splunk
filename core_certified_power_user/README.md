@@ -122,7 +122,7 @@
     * Understand types of extracted fields and when they are extracted
     * Explore the Splunk Web Field Extractor (FX)
 
-  * [Creating Regex Field Extractions](https://github.com/ebd622/splunk/blob/main/core_certified_power_user/creating_field_extractions/Creating_Regex_Field_Extractions.md.md)
+  * [Creating Regex Field Extractions](https://github.com/ebd622/splunk/blob/main/core_certified_power_user/creating_field_extractions/Creating_Regex_Field_Extractions.md)
     * Identify basics of regular expressions (regex)
     * Understand the regex field extraction workflow
     * Edit regex for field extractions
