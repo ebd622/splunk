@@ -8,7 +8,7 @@
 
 #### Understand types of extracted fields and when they are extracted
 Field extraction methods:
-* Regex
+* Regex: used for Unstructured data
 * Delimiters
 * Commands
 
