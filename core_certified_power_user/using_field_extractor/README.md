@@ -11,7 +11,8 @@ Field extraction methods:
 * Regex: used for Unstructured data
 * Delimiters: used for Structured data
 * Commands: work with `rex` and `erex` in your SPL
-    * `rex` - use `regex` to create a new fields our of a feild that already exists (when you a `regex` pro). This is a key-point with `rex`.  
+    * `rex` - use `regex` to create a new fields our of a feild that already exists (when you a `regex` pro). This is a key-point with `rex`;
+    * 'erex' - aids (helps) in generating regex for field extraction.
 
 
 
