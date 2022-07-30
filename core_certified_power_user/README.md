@@ -118,7 +118,7 @@
     * Use a calculated field in search
 
 * Creating Field Extractions ([course](https://www.splunk.com/en_us/training/courses/creating-field-extractions.html))
-  * Using the Field Extractor
+  * [Using the Field Extractor](https://github.com/ebd622/splunk/blob/main/core_certified_power_user/creating_field_extractions/Using_Field_Extractor.md)
     * Understand types of extracted fields and when they are extracted
     * Explore the Splunk Web Field Extractor (FX)
 
