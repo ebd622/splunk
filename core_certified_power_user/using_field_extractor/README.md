@@ -7,7 +7,11 @@
 
 
 #### Understand types of extracted fields and when they are extracted
-TODO
+Field extraction methods:
+* Regex
+* Delimiters
+* Commands
+
 
 
   
