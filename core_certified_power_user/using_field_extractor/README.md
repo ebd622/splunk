@@ -17,7 +17,7 @@ Field extraction methods:
 #### Explore the Splunk Web Field Extractor (FX)
 There are a few ways to nvigate to Web Field Extractor:
 * Settings -> Fields -> Fields Extractions -> Open Field Extractor
-* 
+* Jump to it from your events action drop down menu;
 
 
   
