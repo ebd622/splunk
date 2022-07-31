@@ -15,6 +15,10 @@ Pass: qwerty123
 ```
 docker stop splunk
 ```
+List all possible indexes:
+```
+| eventcount summarize=false index=* index=_* | dedup index | fields index
+```
 
 ### References
 * [docker-splunk](https://splunk.github.io/docker-splunk/STORAGE_OPTIONS.html)
