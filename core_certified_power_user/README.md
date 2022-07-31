@@ -160,3 +160,6 @@
     * Accelerate a data model
     * Describe the role of tsidx files in data model acceleration
     * Review considerations about data model acceleration
+    
+## References
+* [Command types](https://docs.splunk.com/Documentation/Splunk/9.0.0/SearchReference/Commandsbytype)
