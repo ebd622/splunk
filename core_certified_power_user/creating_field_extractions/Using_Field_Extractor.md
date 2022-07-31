@@ -23,5 +23,5 @@ There are a few ways to nvigate to Web Field Extractor:
 
   
 ### References
-* [rex)](https://docs.splunk.com/Documentation/SplunkCloud/8.2.2203/SearchReference/Rex)
+* [rex](https://docs.splunk.com/Documentation/SplunkCloud/8.2.2203/SearchReference/Rex)
 
