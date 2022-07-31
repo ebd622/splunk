@@ -2,7 +2,7 @@
 
 ### Run splunk in a docker container
 
-Run Splunk in a docker container:
+1. Start up Splunk:
 ```
 docker run --rm -d -p 8000:8000 -e "SPLUNK_START_ARGS=--accept-license" -e "SPLUNK_PASSWORD=qwerty123" --name splunk splunk/splunk:latest
 ```
