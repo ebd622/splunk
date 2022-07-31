@@ -9,6 +9,8 @@ docker run --rm -d -p 8000:8000 -e "SPLUNK_START_ARGS=--accept-license" -e "SPLU
 Splunk will be availbale on the URL:
 ```
 http://localhost:8000/
+User: admin
+Pass: qwerty123
 ```
 ```
 docker stop splunk
