@@ -127,7 +127,7 @@
     * Understand the regex field extraction workflow
     * Edit regex for field extractions
 
-  * Creating Delimited Field Extractions
+  * [Creating Delimited Field] Extractions(https://github.com/ebd622/splunk/blob/main/core_certified_power_user/creating_field_extractions/Creating_Delimited_Field_Extractions.md)
     * Identify delimited field values in event data
     * Understand the delimited field extraction workflow
 
