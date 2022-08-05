@@ -4,12 +4,9 @@
 
 ### Topics
 * Identify delimited field values in event data
+* Understand the delimited field extraction workflow
 
-TODO
-
-
-
-  
+ 
 ### References
 TODO
 
