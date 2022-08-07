@@ -1,5 +1,6 @@
 # Creating Search Macros
-(32. Module 19A)
+(32. Module 19A) \n
+(33. Module 19B)
 
 ### Topics
 * Explain search macros
