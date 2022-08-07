@@ -8,7 +8,7 @@ TODO
 
 
 #### Explain search macros
-TODO
+Search macro is a knowledge object that will be reused.
 
 
   
