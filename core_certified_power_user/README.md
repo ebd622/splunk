@@ -104,7 +104,7 @@
     * Create field aliases and tags
     * Search with field aliases and tags
 
-  * Creating Search Macros
+  * [Creating Search Macros](https://github.com/ebd622/splunk/blob/main/core_certified_power_user/creating_knowledge_objects/Creating_Search_Macros.md)
     * Explain search macros
     * Create macros with and without arguments
     * Validate macro arguments
