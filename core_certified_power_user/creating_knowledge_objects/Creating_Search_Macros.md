@@ -5,6 +5,7 @@
 ### Topics
 * Explain search macros
 * Create macros with and without arguments
+* Validate macro arguments
 
 TODO
 
