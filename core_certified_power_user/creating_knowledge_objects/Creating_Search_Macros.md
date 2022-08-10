@@ -7,6 +7,7 @@
 * Create macros with and without arguments
 * Validate macro arguments
 * Use and preview macros at search time
+* Create and use nested macros
 
 TODO
 
