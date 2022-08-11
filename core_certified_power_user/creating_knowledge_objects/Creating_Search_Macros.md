@@ -10,9 +10,6 @@
 * Create and use nested macros
 * Use macros with other knowledge objects
 
-TODO
-
-
 #### Explain search macros
 Search macro is a knowledge object that will be reused.
 
