@@ -8,6 +8,7 @@
 * Validate macro arguments
 * Use and preview macros at search time
 * Create and use nested macros
+* Use macros with other knowledge objects
 
 TODO
 
