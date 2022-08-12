@@ -19,6 +19,8 @@ List all possible indexes:
 ```
 | eventcount summarize=false index=* index=_* | dedup index | fields index
 ```
+### Run splunk uing docker-compose
+
 
 ### References
 * [docker-splunk](https://splunk.github.io/docker-splunk/STORAGE_OPTIONS.html)
