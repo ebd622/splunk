@@ -24,6 +24,10 @@ List all possible indexes:
 docker-compose up -d
 ```
 
+```
+docker-compose stop -d
+```
+
 
 ### References
 * [docker-splunk](https://splunk.github.io/docker-splunk/STORAGE_OPTIONS.html)
