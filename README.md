@@ -20,11 +20,11 @@ List all possible indexes:
 | eventcount summarize=false index=* index=_* | dedup index | fields index
 ```
 ### Run splunk uing docker-compose
-Start up Splunk
+1. Start up Splunk
 ```
 docker-compose up -d
 ```
-
+2. Stop Splunk
 ```
 docker-compose stop -d
 ```
