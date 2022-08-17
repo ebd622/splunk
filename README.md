@@ -24,7 +24,9 @@ List all possible indexes:
 ```
 docker-compose up -d
 ```
-2. Stop Splunk
+2. Check a running container
+
+3. Stop Splunk
 ```
 docker-compose stop -d
 ```
