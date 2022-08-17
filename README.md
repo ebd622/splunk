@@ -24,7 +24,7 @@ List all possible indexes:
 ```
 docker-compose up -d
 ```
-2. Check a running container
+2. Check a running container and exposed port
 
 3. Stop Splunk
 ```
