@@ -26,6 +26,7 @@ docker-compose up -d
 ```
 2. Check a running container and exposed port
 ```
+docker ps
 ```
 
 3. Stop Splunk
