@@ -32,6 +32,9 @@ CONTAINER ID   IMAGE                  COMMAND                  CREATED       STA
 b9ed545cba8e   splunk/splunk:latest   "/sbin/entrypoint.sh…"   2 weeks ago   Up 5 seconds (health: starting)   8065/tcp, 8088/tcp, 8191/tcp, 9887/tcp, 9997/tcp, 0.0.0.0:55328->8000/tcp, 0.0.0.0:55329->8089/tcp   so1
 ```
 The port `55328` is an external port which should mapped to `8080`
+```
+http://localhost:55328
+```
 
 3. Stop Splunk
 ```
