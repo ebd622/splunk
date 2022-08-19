@@ -27,6 +27,10 @@ docker-compose up -d
 2. Check a running container and exposed port
 ```
 docker ps
+
+CONTAINER ID   IMAGE                  COMMAND                  CREATED       STATUS                            PORTS                                                                                                NAMES
+b9ed545cba8e   splunk/splunk:latest   "/sbin/entrypoint.sh…"   2 weeks ago   Up 5 seconds (health: starting)   8065/tcp, 8088/tcp, 8191/tcp, 9887/tcp, 9997/tcp, 0.0.0.0:55328->8000/tcp, 0.0.0.0:55329->8089/tcp   so1
+
 ```
 
 3. Stop Splunk
