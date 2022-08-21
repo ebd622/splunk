@@ -39,5 +39,10 @@ Run macros with no arguments:
 `my_macro`
 ```
 
+Run macros with arguments:
+```
+`my_macro(INFO, my_App)`
+```
+
 TODO
 ### References
