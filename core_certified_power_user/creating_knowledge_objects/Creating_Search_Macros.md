@@ -28,5 +28,6 @@ Run macros with the use of backticks (not single quotas):
 #### Create macros with and without arguments
 Settings -> Advanced Search -> Search macros -> Clisk **Add new** to create one
 
+In the opneded window you cna create macros with and without arguments:
 TODO
 ### References
