@@ -18,6 +18,8 @@ Search macros are reusable chunks of Search Processing Language (SPL) that you c
 ##### Advantages
 * Shortcuts
 * Repatable
+* Expandable
+* Run be name
 
 Run macros with the use of backticks (not single quotas): 
 ```
