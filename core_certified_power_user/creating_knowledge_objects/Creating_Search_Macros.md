@@ -30,6 +30,6 @@ Settings -> Advanced Search -> Search macros -> Clisk **Add new** to create one
 
 In the opneded window you cna create macros with and without arguments:
 
-<img src="images/macro_1.png" width="80%">
+<img src="../images/macro_1.png" width="80%">
 TODO
 ### References
