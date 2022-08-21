@@ -17,6 +17,7 @@ Search macros are reusable chunks of Search Processing Language (SPL) that you c
 
 ##### Advantages
 * Shortcuts
+  Fast, saved off seaarhes to run ba naame
 * Repatable
 * Expandable
 * Run be name
