@@ -33,5 +33,11 @@ In the opneded window you cna create macros with and without arguments:
 <img src="../images/macro_1.png" width="80%">
 
 <img src="../images/macro_2.png" width="80%">
+
+Run macros with no arguments:
+```
+`my_macro`
+```
+
 TODO
 ### References
