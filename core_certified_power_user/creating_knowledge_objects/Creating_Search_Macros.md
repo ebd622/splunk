@@ -18,7 +18,7 @@ Search macros are reusable chunks of Search Processing Language (SPL) that you c
 ##### Advantages
 * **Shortcuts**: Fast, saved off seaarhes to run ba naame
 * **Repatable**: macros never changes unless you edit it
-* Expandable: Command-Shift-E (for Mac)
+* **Expandable**: Command-Shift-E (for Mac)
 * Run by name:
 Run macros with the use of backticks (not single quotas): 
 ```
