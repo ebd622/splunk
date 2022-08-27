@@ -36,7 +36,9 @@ It can be use to access Splunk:
 ```
 http://localhost:55328
 ```
-Use the same credentials to log in.
+Use the same credentials to log in:
+User: admin
+Pass: qwerty123
 
 3. Stop Splunk
 ```
