@@ -19,6 +19,8 @@ docker stop splunk
 ```
 | eventcount summarize=false index=* index=_* | dedup index | fields index
 ```
+`index=_*` relates to interal indexes
+
 ### Run splunk uing docker-compose
 1. Start up Splunk
 ```
