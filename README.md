@@ -45,6 +45,10 @@ Pass: qwerty123
 docker-compose stop -d
 ```
 ### Free license
+When a trial license expires you have to swith to Free one.
+
+
+
 
 ### References
 * [docker-splunk](https://splunk.github.io/docker-splunk/STORAGE_OPTIONS.html)
