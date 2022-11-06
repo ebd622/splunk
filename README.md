@@ -15,7 +15,7 @@ Pass: qwerty123
 ```
 docker stop splunk
 ```
-List all possible indexes:
+### List all possible indexes:
 ```
 | eventcount summarize=false index=* index=_* | dedup index | fields index
 ```
