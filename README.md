@@ -44,7 +44,7 @@ Pass: qwerty123
 ```
 docker-compose stop -d
 ```
-
+### Free license
 
 ### References
 * [docker-splunk](https://splunk.github.io/docker-splunk/STORAGE_OPTIONS.html)
