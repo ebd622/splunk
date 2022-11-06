@@ -44,7 +44,7 @@ Pass: qwerty123
 
 3. Stop Splunk
 ```
-docker-compose stop -d
+docker-compose stop
 ```
 ### Free license
 When a trial license expires you have to swith to Free one.
