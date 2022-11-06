@@ -54,7 +54,7 @@ When a trial license expires you have to swith to Free one.
 * Click Save
 * You are prompted to restart
 
-
+More details: https://docs.splunk.com/Documentation/Splunk/9.0.1/Admin/MoreaboutSplunkFree
 
 
 ### References
