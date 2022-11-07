@@ -50,7 +50,7 @@ docker-compose stop
 When a trial license expires you have to swith to Free one.
 
 * Log in to Splunk Web as a user in the admin role
-* Select Settings > Licensing
+* Select *Settings > Licensing*
 * Click Change License Group
 * Select Free license
 * Click Save
