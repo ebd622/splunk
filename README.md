@@ -53,7 +53,7 @@ When a trial license expires you have to swith to Free one.
 * Select **Settings > Licensing**
 * Click **Change License Group**
 * Select **Free license**
-* Click Save
+* Click **Save**
 * You are prompted to restart
 
 More details: see [How do I switch to the Splunk Free license?](https://docs.splunk.com/Documentation/Splunk/9.0.1/Admin/MoreaboutSplunkFree)
