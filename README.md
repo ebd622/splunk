@@ -47,7 +47,8 @@ Pass: qwerty123
 docker-compose stop
 ```
 ### Free license
-When a trial license expires you have to swith to Free one. Here are the steps which need to be done:
+When a trial license expires you have to swith to Free one. 
+Here are the steps which need to be done:
 
 * Log in to Splunk Web as a user in the admin role
 * Select **Settings > Licensing**
