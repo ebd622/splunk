@@ -1,4 +1,4 @@
-# splunk
+# Basic
 
 ### Run splunk in a docker container
 
