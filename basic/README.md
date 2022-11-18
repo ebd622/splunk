@@ -11,4 +11,4 @@ SPL commmands use the pipe `|` commands to chain search commands together.
 Allow for search commands to create data structure form fields valie pairs. Frequantly used for Splink Enterprise visualizations.
 
 ### Lookup
-Table mapping in Splunk 
+Table mapping in Splunk for accociating key value pairs in the search output.
