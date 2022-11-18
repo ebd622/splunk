@@ -9,3 +9,5 @@ SPL commmands use the pipe `|` commands to chain search commands together.
 
 ### Transforming Commands
 Allow for search commands to create data structure form fields valie pairs. Frequantly used for Splink Enterprise visualizations.
+
+### Lookup
