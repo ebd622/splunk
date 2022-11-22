@@ -11,6 +11,7 @@ SPL commmands use the pipe `|` commands to chain search commands together.
 * Distributable streaming
 * Centralized streaming
 * Transforming
+* Generating
 
 
 ### Transforming Commands
