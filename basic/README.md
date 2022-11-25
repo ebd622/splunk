@@ -13,6 +13,7 @@ SPL commmands use the pipe `|` commands to chain search commands together.
 * Transforming
 * Generating
 * Orchestrating
+* Dataset Processing
 
 
 ### Transforming Commands
