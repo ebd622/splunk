@@ -8,6 +8,8 @@ Splunk stores data in index. Ingested data goes thrhough the process of indexing
 SPL commmands use the pipe `|` commands to chain search commands together.
 
 ### [Types of commands](https://docs.splunk.com/Documentation/Splunk/9.0.2/Search/Typesofcommands)
+There are six broad categorizations for almost all of the search commands:
+
 * Distributable streaming
 * Centralized streaming
 * Transforming
