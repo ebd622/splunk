@@ -14,7 +14,7 @@ There are six categorizations of the search commands:
 * Centralized streaming
 * [Transforming](https://docs.splunk.com/Splexicon:Transformingcommand)
 * [Generating](https://docs.splunk.com/Splexicon:Generatingcommand)
-* Orchestrating
+* [Orchestrating](https://docs.splunk.com/Splexicon:Orchestratingcommand)
 * Dataset Processing
 
 
