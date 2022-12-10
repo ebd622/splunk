@@ -15,7 +15,7 @@ There are six categorizations of the search commands:
 * [Transforming](https://docs.splunk.com/Splexicon:Transformingcommand)
 * [Generating](https://docs.splunk.com/Splexicon:Generatingcommand)
 * [Orchestrating](https://docs.splunk.com/Splexicon:Orchestratingcommand)
-* [Dataset Processing]()
+* [Dataset Processing](https://docs.splunk.com/Documentation/Splunk/9.0.2/SearchReference/Commandsbytype#Dataset_processing)
 
 
 ### Transforming Commands
