@@ -10,7 +10,7 @@ SPL commmands use the pipe `|` commands to chain search commands together.
 ### [Types of commands](https://docs.splunk.com/Documentation/Splunk/9.0.2/Search/Typesofcommands)
 There are six categorizations of the search commands:
 
-* [Distributable streaming]()
+* [Distributable streaming](https://docs.splunk.com/Documentation/Splunk/9.0.2/SearchReference/Commandsbytype#Streaming_commands)
 * Centralized streaming
 * [Transforming](https://docs.splunk.com/Splexicon:Transformingcommand)
 * [Generating](https://docs.splunk.com/Splexicon:Generatingcommand)
