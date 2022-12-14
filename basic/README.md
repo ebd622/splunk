@@ -11,7 +11,7 @@ SPL commmands use the pipe `|` commands to chain search commands together.
 There are six categorizations of the search commands:
 
 * [Distributable streaming](https://docs.splunk.com/Documentation/Splunk/9.0.2/SearchReference/Commandsbytype#Streaming_commands)
-* Centralized streaming: command applies a transformation to each event returned by a search. Unlike distributable streaming commands, a centralized streaming command only works on the search head.
+* [Centralized streaming](): command applies a transformation to each event returned by a search. Unlike distributable streaming commands, a centralized streaming command only works on the search head.
 
 * [Transforming](https://docs.splunk.com/Splexicon:Transformingcommand)
 * [Generating](https://docs.splunk.com/Splexicon:Generatingcommand)
