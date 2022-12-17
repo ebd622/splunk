@@ -19,8 +19,5 @@ There are six categorizations of the search commands:
 * [Dataset Processing](https://docs.splunk.com/Documentation/Splunk/9.0.2/SearchReference/Commandsbytype#Dataset_processing)
 
 
-### Transforming Commands
-Allow for search commands to create data structure form fields valie pairs. Frequantly used for Splink Enterprise visualizations.
-
 ### Lookup
 Table mapping in Splunk for accociating key value pairs in the search output.
