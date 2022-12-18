@@ -14,7 +14,7 @@ There are six categorizations of the search commands:
 * [Centralized streaming](https://docs.splunk.com/Documentation/Splunk/9.0.2/SearchReference/Commandsbytype#Streaming_commands): command applies a transformation to each event returned by a search. Unlike distributable streaming commands, a centralized streaming command only works on the search head.
 
 * [Transforming](https://docs.splunk.com/Splexicon:Transformingcommand) allow for search commands to create data structure form fields valie pairs. Frequantly used for Splink Enterprise visualizations
-* [Generating](https://docs.splunk.com/Splexicon:Generatingcommand)
+* [Generating](https://docs.splunk.com/Splexicon:Generatingcommand) fetche information from the indexes, without any transformations.
 * [Orchestrating](https://docs.splunk.com/Splexicon:Orchestratingcommand)
 * [Dataset Processing](https://docs.splunk.com/Documentation/Splunk/9.0.2/SearchReference/Commandsbytype#Dataset_processing)
 
