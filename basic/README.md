@@ -15,7 +15,7 @@ There are six categorizations of the search commands:
 
 * [Transforming](https://docs.splunk.com/Splexicon:Transformingcommand) allow for search commands to create data structure form fields valie pairs. Frequantly used for Splink Enterprise visualizations
 * [Generating](https://docs.splunk.com/Splexicon:Generatingcommand) fetch information from the indexes, without any transformations.
-* [Orchestrating](https://docs.splunk.com/Splexicon:Orchestratingcommand) is a command that controls some aspect of how the search is processed.
+* [Orchestrating](https://docs.splunk.com/Documentation/Splunk/9.0.2/SearchReference/Commandsbytype#Orchestrating_commands) is a command that controls some aspect of how the search is processed.
 * [Dataset Processing](https://docs.splunk.com/Documentation/Splunk/9.0.2/SearchReference/Commandsbytype#Dataset_processing): is a command that requires the entire dataset before the command can run. Some of these commands fit into other command types in specific situations or when specific arguments are used.
 
 
