@@ -162,4 +162,5 @@
     * Review considerations about data model acceleration
     
 ## References
+* Basic
 * [Command types](https://docs.splunk.com/Documentation/Splunk/9.0.0/SearchReference/Commandsbytype)
