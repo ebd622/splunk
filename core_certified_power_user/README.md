@@ -133,7 +133,7 @@
 
 
 * Data Models ([course](https://www.splunk.com/en_us/training/courses/data-models.html))
-  * [Introducing Data Model Datasets](https://github.com/ebd622/splunk/blob/main/core_certified_power_user/creating_field_extractions/Creating_Delimited_Field_Extractions.md)
+  * [Introducing Data Model Datasets](https://github.com/ebd622/splunk/blob/main/core_certified_power_user/data_model/introducing.md#introducing-data-model-datasets)
     * Understand data models
     * Add event, search, and transaction datasets to data models
     * Identify event object hierarchy and constraints
