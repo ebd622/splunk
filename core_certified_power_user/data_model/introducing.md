@@ -7,6 +7,8 @@
 * Identify event object hierarchy and constraints
 * Add fields based on eval expressions to transaction datasets
 
+### Data model
+A data model is a hierarchically structured search-time mapping of semantic knowledge about one or more datasets
 
 
 ### References
