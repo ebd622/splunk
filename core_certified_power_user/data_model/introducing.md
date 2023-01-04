@@ -12,6 +12,8 @@ A [Data Model](https://docs.splunk.com/Documentation/Splunk/9.0.3/Knowledge/Abou
 Key points:
 * Hierarcial
 * Dataset searching
+* Normalization tool
+* Large data searches
 
 
 ### References
