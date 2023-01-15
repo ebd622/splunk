@@ -12,7 +12,7 @@ A [Data Model](https://docs.splunk.com/Documentation/Splunk/9.0.3/Knowledge/Abou
 Key points:
 * **Hierarcial**: parent and child relashionship.
 * **Dataset searching**: select a specific datamodel and dataset you want to search
-* Normalization tool: data mapping to a model that fits that type of data
+* **Normalization tool**: data mapping to a model that fits that type of data
 * Large data searches: search lager amount of data faster with `tstats` and accelerated datamodels
 
 
