@@ -9,6 +9,7 @@
 
 ### Data model
 A [Data Model](https://docs.splunk.com/Documentation/Splunk/9.0.3/Knowledge/Aboutdatamodels) is a hierarchically structured search-time mapping of semantic knowledge about one or more datasets.
+
 Key points:
 * **Hierarcial**: parent and child relashionship.
 * **Dataset searching**: select a specific datamodel and dataset you want to search
